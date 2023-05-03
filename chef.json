@@ -1,0 +1,56 @@
+ [
+      {
+        "id": 1,
+        "picture": "https://images.unsplash.com/photo-1609053211574-186ad46bb212?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+        "name": "Toshiro Takahashi",
+        "bio": "Chef Toshiro Takahashi is a master of kaiseki cuisine, a traditional Japanese multi-course meal. He trained under some of Japan's top chefs and has over 20 years of experience in the industry. He is known for his inventive use of local ingredients and his beautiful presentation of dishes.",
+        "likes": 245,
+        "num_recipes": 50,
+        "years_experience": 22
+      },
+      {
+        "id": 2,
+        "picture": "https://plus.unsplash.com/premium_photo-1661778021952-65997d03b2b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "name": "Yui Nakamura",
+        "bio": "Chef Yui Nakamura is a rising star in the world of Japanese cuisine. She specializes in sushi and has a deep respect for the traditions of the craft. She has worked in some of Japan's top sushi restaurants and has also trained in New York City. She is passionate about introducing people to the joys of sushi.",
+        "likes": 120,
+        "num_recipes": 30,
+        "years_experience": 8
+      },
+      {
+        "id": 3,
+        "picture": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "name": "Hiroshi Sato",
+        "bio": "Chef Hiroshi Sato is a master of izakaya cuisine, a type of Japanese gastropub food. He has over 30 years of experience in the industry and has owned his own restaurant for 20 years. He is known for his bold flavors and creative twists on classic dishes. He is also an expert in pairing food with sake.",
+        "likes": 80,
+        "num_recipes": 40,
+        "years_experience": 31
+      },
+      {
+        "id": 4,
+        "picture": "https://images.unsplash.com/photo-1567879866251-a8dcd972b7ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80",
+        "name": "Aiko Suzuki",
+        "bio": "Chef Aiko Suzuki is a specialist in wagashi, traditional Japanese sweets. She is passionate about preserving the art of wagashi making and has studied under several famous wagashi masters. She is known for her delicate touch and attention to detail.",
+        "likes": 65,
+        "num_recipes": 20,
+        "years_experience": 15
+      },
+      {
+        "id": 5,
+        "picture": "https://plus.unsplash.com/premium_photo-1661778003363-ccf7f0683124?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "name": "Ryoichi Tanaka",
+        "bio": "Chef Ryoichi Tanaka is a master of soba noodle making. He has spent years perfecting his technique and sources only the highest quality buckwheat flour for his noodles. He is also known for his delicious dipping sauces and unique toppings.",
+        "likes": 150,
+        "num_recipes": 25,
+        "years_experience": 12
+      },
+      {
+        "id": 6,
+        "picture": "https://images.unsplash.com/photo-1595273670150-bd0c3c392e46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=787&q=80",
+        "name": "Kazuo Yamamoto",
+        "bio": "Chef Kazuo Yamamoto is an expert in teppanyaki, a style of Japanese cooking where food is grilled on a hot iron plate. He has over 25 years of experience in the industry and has owned his own teppanyaki restaurant for 15 years. He is known for his entertaining and dynamic performances as well as his delicious food.",
+        "likes": 100,
+        "num_recipes": 25,
+        "years_experience": 12
+      }]
+  
