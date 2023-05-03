@@ -18,7 +18,7 @@
           },
           {
             "name": "Ramen",
-            "image": "ramen.jpg",
+            "image": "https://images.unsplash.com/photo-1618889482923-38250401a84e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
             "description": "Ramen is a Japanese noodle soup dish that typically includes broth, Chinese-style wheat noodles, and toppings such as sliced pork, nori, and scallions.",
             "ingredients": ["ramen noodles", "pork broth", "sliced pork", "nori seaweed", "scallions"],
             "cooking_method": "1. Cook the ramen noodles according to package instructions.\n2. Heat the pork broth in a separate pot.\n3. Add the cooked ramen noodles to the broth.\n4. Top with sliced pork, nori seaweed, and scallions.\n5. Serve hot.",
@@ -26,7 +26,7 @@
           },
           {
             "name": "Tempura",
-            "image": "tempura.jpg",
+            "image": "https://images.unsplash.com/photo-1593357849627-cbbc9fda6b05?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
             "description": "Tempura is a Japanese dish of battered and deep-fried seafood, vegetables, or meat.",
             "ingredients": ["shrimp", "sweet potato", "green beans", "tempura batter mix", "vegetable oil"],
             "cooking_method": "1. Heat the vegetable oil in a deep pot or frying pan.\n2. Mix the tempura batter according to package instructions.\n3. Dip the shrimp, sweet potato, and green beans in the batter.\n4. Fry the battered ingredients in the hot oil until golden brown.\n5. Serve hot with soy sauce.",
@@ -45,7 +45,7 @@
         "recipes_set2": [
           {
             "name": "Udon",
-            "image": "udon.jpg",
+            "image": "https://images.unsplash.com/photo-1629127524579-269c62b90a96?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
             "description": "Udon is a type of thick wheat flour noodle commonly used in Japanese cuisine.",
             "ingredients": ["udon noodles", "dashi broth", "mirin", "soy sauce", "scallions"],
       "cooking_method": "1. Cook the udon noodles according to package instructions.\n2. Heat the dashi broth in a separate pot.\n3. Add mirin and soy sauce to the broth for flavor.\n4. Add the cooked udon noodles to the broth.\n5. Top with sliced scallions.\n6. Serve hot.",
@@ -54,7 +54,7 @@
           },
           {
             "name": "Yakitori",
-            "image": "yakitori.jpg",
+            "image": "https://images.unsplash.com/photo-1563118946-9d60eae4a82d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
             "description": "Yakitori is a Japanese skewered chicken dish that is typically grilled over charcoal.",
             "ingredients": ["udon noodles", "dashi broth", "mirin", "soy sauce", "scallions"],
       "cooking_method": "1. Cook the udon noodles according to package instructions.\n2. Heat the dashi broth in a separate pot.\n3. Add mirin and soy sauce to the broth for flavor.\n4. Add the cooked udon noodles to the broth.\n5. Top with sliced scallions.\n6. Serve hot.",
@@ -62,7 +62,7 @@
           },
           {
             "name": "Miso soup",
-            "image": "miso-soup.jpg",
+            "image": "https://images.unsplash.com/photo-1610393069309-2607fcf74146?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
             "description": "Miso soup is a traditional Japanese soup made with miso paste, dashi broth, and ingredients such as tofu, seaweed, and green onions.",
             "ingredients": ["udon noodles", "dashi broth", "mirin", "soy sauce", "scallions"],
       "cooking_method": "1. Cook the udon noodles according to package instructions.\n2. Heat the dashi broth in a separate pot.\n3. Add mirin and soy sauce to the broth for flavor.\n4. Add the cooked udon noodles to the broth.\n5. Top with sliced scallions.\n6. Serve hot.",
@@ -81,7 +81,7 @@
         "recipes_set3": [
           {
             "name": "Nikujaga",
-            "image": "nikujaga.jpg",
+            "image": "https://media.istockphoto.com/id/1346151362/photo/nikujaga-japanese-style-meat-and-potatoes-stew-close-up-in-bowl-horizontal.jpg?s=612x612&w=is&k=20&c=xJH4uMezr6gYOqPcd_SGJHxApfcnG1ihCBGCvkVQNcY=",
             "description": "Nikujaga is a Japanese comfort food made with potatoes, carrots, onions, and thin slices of beef in a sweet and savory soy sauce-based broth.",
             "ingredients": ["thinly sliced beef", "potatoes", "carrots", "onion", "dashi broth", "soy sauce", "sake", "sugar", "mirin"],
             "cooking_method": "1. Cut the potatoes and carrots into bite-sized pieces, and slice the onion thinly.\n2. In a pot, heat dashi broth, soy sauce, sake, sugar, and mirin.\n3. Add the sliced beef to the pot and cook until browned.\n4. Add the potatoes, carrots, and onion to the pot and simmer until the vegetables are tender.\n5. Serve hot.",
@@ -89,7 +89,7 @@
           },
           {
             "name": "Tempura",
-            "image": "tempura.jpg",
+            "image": "https://images.unsplash.com/photo-1601736461246-e690e5cc2bac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
             "description": "Tempura is a Japanese dish of battered and deep-fried seafood, vegetables, or other ingredients.",
             "ingredients": ["shrimp", "white fish fillets", "eggplant", "sweet potato", "flour", "cornstarch", "cold water", "vegetable oil", "tempura dipping sauce"],
             "cooking_method": "1. Cut the shrimp and white fish fillets into bite-sized pieces, and slice the eggplant and sweet potato thinly.\n2. Make the tempura batter by mixing flour, cornstarch, and cold water until smooth.\n3. Heat the vegetable oil in a deep frying pan.\n4. Dip the seafood and vegetables in the tempura batter and carefully place them into the hot oil.\n5. Fry until golden brown and crispy.\n6. Serve hot with tempura dipping sauce.",
@@ -97,7 +97,7 @@
           },
           {
             "name": "Takoyaki",
-            "image": "takoyaki.jpg",
+            "image": "https://images.unsplash.com/photo-1569740392698-59e8ce4f47cc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1031&q=80",
             "description": "Takoyaki is a popular street food in Japan consisting of small, round balls of batter filled with diced octopus, green onion, and pickled ginger, and topped with mayonnaise, takoyaki sauce, and bonito flakes.",
             "ingredients": ["flour", "eggs", "dashi broth", "diced octopus", "green onion", "pickled ginger", "takoyaki sauce", "mayonnaise", "bonito flakes"],
             "cooking_method": "1. Make the batter by mixing flour, eggs, and dashi broth until smooth.\n2. Heat a special takoyaki pan and grease it with oil.\n3. Pour the batter into each mold and add diced octopus, green onion, and pickled ginger to each one.\n4. Use a takoyaki turner to flip the balls over and cook until crispy on all sides.\n5. Top with takoyaki sauce, mayonnaise, and bonito flakes.\n6. Serve hot.",
@@ -116,7 +116,7 @@
         "recipes_set4": [
           {
             "name": "Soba Noodles",
-            "image": "soba.jpg",
+            "image": "https://images.unsplash.com/photo-1519984388953-d2406bc725e1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
             "description": "Soba noodles are thin Japanese noodles made from buckwheat flour, often served cold with dipping sauce or hot in broth.",
             "ingredients": ["soba noodles", "dashi broth", "mirin", "soy sauce", "green onion", "wasabi", "shredded nori"],
             "cooking_method": "1. Cook the soba noodles according to package instructions.\n2. Rinse the cooked noodles in cold water to remove excess starch.\n3. Heat dashi broth, mirin, and soy sauce in a pot.\n4. Serve the soba noodles in a bowl with the hot broth.\n5. Garnish with chopped green onion, a dollop of wasabi, and shredded nori.",
@@ -124,7 +124,7 @@
           },
           {
             "name": "Yakitori",
-            "image": "yakitori.jpg",
+            "image": "https://images.unsplash.com/photo-1563118946-9d60eae4a82d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
             "description": "Yakitori is a popular Japanese grilled chicken skewer dish, often seasoned with soy sauce, sake, and mirin.",
             "ingredients": ["chicken thighs", "green onion", "soy sauce", "sake", "mirin", "sugar", "vegetable oil"],
             "cooking_method": "1. Cut the chicken thighs into bite-sized pieces.\n2. Thread the chicken pieces and sliced green onion onto skewers.\n3. In a bowl, mix soy sauce, sake, mirin, and sugar to make the marinade.\n4. Marinate the chicken skewers in the sauce for at least 30 minutes.\n5. Heat the grill or a grill pan over medium-high heat and brush with vegetable oil.\n6. Grill the chicken skewers, turning occasionally, until cooked through and browned.\n7. Serve hot with extra sauce.",
@@ -132,7 +132,7 @@
           },
           {
             "name": "Chawanmushi",
-            "image": "chawanmushi.jpg",
+            "image": "https://media.istockphoto.com/id/1368977515/photo/chawanmushi.jpg?s=612x612&w=is&k=20&c=k98LJid4gSS2l4puaYwywgsRpHYrBq5sEfoh_A4oMqU=",
             "description": "Chawanmushi is a savory Japanese egg custard dish steamed with shrimp, chicken, and vegetables.",
             "ingredients": ["eggs", "dashi broth", "soy sauce", "mirin", "sugar", "shrimp", "chicken", "shiitake mushrooms", "green onion"],
             "cooking_method": "1. Beat the eggs in a bowl and mix in dashi broth, soy sauce, mirin, and sugar.\n2. Strain the egg mixture through a fine mesh sieve.\n3. Divide the shrimp, chicken, shiitake mushrooms, and green onion evenly among 4 small heatproof bowls or cups.\n4. Pour the egg mixture into the bowls or cups, filling them about 80% full.\n5. Cover the bowls or cups with foil or plastic wrap.\n6. Steam the bowls or cups in a steamer basket or a pot with a lid for about 15 minutes, or until the custard is set.\n7. Serve hot.",
@@ -151,7 +151,7 @@
         "recipes_set5": [
           {
             "name": "Katsu Curry",
-            "image": "katsu_curry.jpg",
+            "image": "https://images.unsplash.com/photo-1564834744159-ff0ea41ba4b9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
             "description": "Katsu curry is a Japanese dish that consists of a breaded pork or chicken cutlet served with a curry sauce.",
             "ingredients": ["chicken breast", "panko breadcrumbs", "flour", "eggs", "oil", "curry roux", "onion", "carrot", "potato", "water", "soy sauce", "honey"],
             "cooking_method": "1. Cut the chicken breast into thin cutlets and season with salt and pepper.\n2. Coat the chicken cutlets with flour, dip them in beaten eggs, and then coat with panko breadcrumbs.\n3. Heat oil in a frying pan and fry the chicken cutlets until golden brown.\n4. In a separate pot, sauté chopped onion, carrot, and potato until slightly softened.\n5. Add water, curry roux, soy sauce, and honey to the pot and stir until the roux is dissolved.\n6. Simmer the sauce until the vegetables are fully cooked.\n7. Serve the chicken cutlets with the curry sauce.",
@@ -159,7 +159,7 @@
           },
           {
             "name": "Oyakodon",
-            "image": "oyakodon.jpg",
+            "image": "https://cdn.media.amplience.net/i/japancentre/recipes%3A-9-oyakodon-chicken-and-egg-rice-bowl/recipes%3A-9-oyakodon-chicken-and-egg-rice-bowl?$poi$&w=700&sm=aspect&aspect=16:9&fmt=auto",
             "description": "Oyakodon is a Japanese rice bowl dish that consists of chicken and eggs cooked in a sweet and savory sauce.",
             "ingredients": ["chicken thigh", "onion", "eggs", "dashi broth", "soy sauce", "mirin", "sugar", "green onion", "cooked rice"],
             "cooking_method": "1. Cut the chicken thigh into bite-sized pieces and thinly slice the onion.\n2. In a pot, mix dashi broth, soy sauce, mirin, and sugar to make the sauce.\n3. Add the chicken and onion to the pot and simmer until the chicken is cooked.\n4. Beat the eggs in a bowl and pour over the chicken mixture.\n5. Cover the pot and simmer until the eggs are cooked.\n6. Serve the chicken and egg mixture over a bowl of cooked rice.\n7. Garnish with chopped green onion.",
@@ -167,7 +167,7 @@
           },
           {
             "name": "Matcha Latte",
-            "image": "matcha_latte.jpg",
+            "image": "https://images.unsplash.com/photo-1515823064-d6e0c04616a7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
             "description": "Matcha latte is a popular Japanese green tea beverage that is made by whisking matcha powder with milk and sweetener.",
             "ingredients": ["matcha powder", "hot water", "milk", "honey"],
             "cooking_method": "1. In a bowl, whisk matcha powder and hot water until smooth.\n2. Heat milk and honey in a pot until hot, but not boiling.\n3. Pour the hot milk into the matcha mixture and whisk until frothy.\n4. Pour the matcha latte into a cup and serve hot.",
@@ -187,7 +187,7 @@
         "recipes_set6": [
           {
             "name": "Okonomiyaki",
-            "image": "okonomiyaki.jpg",
+            "image": "https://images.unsplash.com/photo-1648221825803-4e02a95bf062?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
             "description": "Okonomiyaki is a Japanese savory pancake made with cabbage, seafood, pork, or other ingredients mixed into a batter, and topped with a variety of condiments such as mayonnaise, okonomiyaki sauce, and bonito flakes.",
             "ingredients": ["flour", "cabbage", "eggs", "water", "sliced pork or seafood", "green onions", "okonomiyaki sauce", "mayonnaise", "bonito flakes"],
             "cooking_method": "1. Mix flour, eggs, and water to make the batter.\n2. Add shredded cabbage, sliced pork or seafood, and green onions to the batter.\n3. Cook the pancake on a hot griddle, flipping once.\n4. Top with okonomiyaki sauce, mayonnaise, and bonito flakes.\n5. Serve hot.",
@@ -195,7 +195,7 @@
           },
           {
             "name": "Tonkatsu",
-            "image": "tonkatsu.jpg",
+            "image": "https://images.unsplash.com/photo-1625189657980-b419b768b0f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=773&q=80",
             "description": "Tonkatsu is a Japanese dish consisting of breaded and deep-fried pork cutlets served with a sweet and savory sauce.",
             "ingredients": ["pork cutlets", "flour", "egg", "panko bread crumbs", "vegetable oil", "tonkatsu sauce"],
             "cooking_method": "1. Season the pork cutlets with salt and pepper.\n2. Coat the pork cutlets in flour, then beaten egg, and finally panko bread crumbs.\n3. Heat the vegetable oil in a frying pan.\n4. Fry the breaded pork cutlets in the hot oil until golden brown.\n5. Serve with tonkatsu sauce.",
@@ -203,7 +203,7 @@
           },
           {
             "name": "Mochi",
-            "image": "mochi.jpg",
+            "image": "https://images.unsplash.com/photo-1644037423703-e4a8e979fcf0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
             "description": "Mochi is a Japanese sweet made of glutinous rice that has been pounded into a sticky paste and molded into various shapes and flavors.",
             "ingredients": ["sweet glutinous rice", "sugar", "water", "cornstarch", "kinako powder or red bean paste"],
             "cooking_method": "1. Rinse the sweet glutinous rice and soak it in water overnight.\n2. Drain the rice and steam it until soft.\n3. Pound the rice into a sticky paste using a traditional mochi pounding machine, or a mortar and pestle.\n4. Mix sugar and water in a saucepan and cook until the sugar dissolves.\n5. Add the sweet rice paste to the sugar syrup and stir until smooth.\n6. Spread the mochi paste onto a flat surface dusted with cornstarch.\n7. Cut the mochi into small squares and serve with kinako powder or red bean paste.",
